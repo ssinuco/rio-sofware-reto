@@ -68,6 +68,6 @@ En la segunda pregunta de nuevo hay un texto para la pregunta, una imagen que la
 
 ![Step 6](./docs/assets/images/step6.png "Step 6")
 
-Finalmente se muestra se muestra el nombre del usuario el número de preguntas correctas e incorrectas.
+Finalmente se muestra el nombre del usuario y el número de preguntas correctas e incorrectas.
 
 ![Step 7](./docs/assets/images/step7.png "Step 7")
